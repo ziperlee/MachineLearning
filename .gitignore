@@ -1,0 +1,7 @@
+/.idea
+/.venv
+/.vscode
+/.ipynb_checkpoint
+/class_code
+/jupyter
+**/.pytest_cache
