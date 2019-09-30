@@ -1,7 +1,9 @@
 /.idea
 /.venv
 /.vscode
-/.ipynb_checkpoint
+/.ipynb_checkpoints
 /class_code
 /jupyter
+/scikit_learn_data
 **/.pytest_cache
+**/Untitled*
