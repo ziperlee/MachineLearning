@@ -1,0 +1,12 @@
+version: "3"
+services:
+
+  anaconda3:
+    image: machine-learning:latest
+#    command: bash -c 'export PATH=/opt/conda/bin/:$PATH; python3'
+    command: bash
+    volumes:
+      - E:\lee\code\python3\MachineLearning:/var/www/
+    tty: true
+
+#bash -c 'export PATH=/opt/conda/bin/:$PATH; python3'
